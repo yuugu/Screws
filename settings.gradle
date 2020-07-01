@@ -1,0 +1,3 @@
+include ':screws-thread'
+include ':app'
+rootProject.name = "Screws"
